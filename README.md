@@ -3,13 +3,22 @@
 
 ## Game Overview
 
-This is a text adventure game inspired by "Kayla is famous".
+This is a pixel-style 2D side-scrolling platformer game. 
 
-Players will need to collect pieces of lost emotions and discover their lost memories as they play.  
-
-Personally, I love the story of this game, but due to time constraints I wasn't able to get into it. I also used translation software to translate the text, which may have caused a lot of problems, so I apologise for that.
+A wicked sorcerer from legend was defeated and banished. This sorcerer arrived at a remote small town. The sorcerer used dark magic to turn all the town's residents into zombies and attempted to restore their strength within the town to return once more.
 
 
+Character movement: AD 
+
+Character jump: Space 
+
+Enter the portal: W 
+
+Character pick up: C 
+
+Character skills: Q & E
+
+There are in-game instructions available.
 
 ## Job Responsibilities
 
